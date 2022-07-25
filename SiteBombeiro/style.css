@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+/*
+#ff4f64
+#ed021e
+#bd0219
+#701919
+#700101
+*/
+:root{
+   --cor1: #ff4f64;
+   --cor2: #ed021e;
+   --cor3: #bd0219;
+   --cor4: #701919;
+   --cor5: #700101;
+}
+
+body{
+   background-color: black;
+}
+header {
+   text-align: center;
+   text-decoration: none;
+}
+h1 {
+   color: var(--cor1);
+}
+h2 {
+   color: white;
+}
+header>a{
+   color: white;
+   margin-right: 15px;
+   margin-left: 15px;
+}
