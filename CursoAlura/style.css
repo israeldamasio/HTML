@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#image{
+   width: 100%;
+}
+
+body{
+   text-align: center;
+   font-family: fantasy;
+   background-color: lightblue;
+}
+
+h1{
+   font-style: italic;
+}
+
+#missao{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#html {
+   color: red;
+}
+
+#css {
+   font-style: italic;
+   color: rgba(255, 255, 0, 0.76);
+}
+
+.beneficios {
+   background-color: white;
+}
+ul{
+   width:200px;
+   text-align: justify;
+}
+
+.itens{
+   font-style: italic;
+}
