@@ -4,13 +4,22 @@ body{
    text-align: center;
    background-color: black;
 }
+header{
+   padding: 20px;
+}
 .title-principal{
    text-align: left;
+   width: 300px;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #image{
-   
+   text-align: right;
+   display: block;
+   vertical-align: top;
 }
 #imgprinc{
    width: 50%;
+}
+a{
+   color: white;
 }
