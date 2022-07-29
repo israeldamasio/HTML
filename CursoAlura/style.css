@@ -1,40 +1,16 @@
 @charset "UTF-8";
-
-#image{
-   width: 100%;
-}
-
 body{
+   color: white;
    text-align: center;
-   font-family: fantasy;
-   background-color: lightblue;
+   background-color: black;
 }
-
-h1{
-   font-style: italic;
+.title-principal{
+   text-align: left;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
-#missao{
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+#image{
+   
 }
-
-#html {
-   color: red;
-}
-
-#css {
-   font-style: italic;
-   color: rgba(255, 255, 0, 0.76);
-}
-
-.beneficios {
-   background-color: white;
-}
-ul{
-   width:200px;
-   text-align: justify;
-}
-
-.itens{
-   font-style: italic;
+#imgprinc{
+   width: 50%;
 }
