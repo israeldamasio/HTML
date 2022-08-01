@@ -17,8 +17,13 @@ header{
    display: block;
 }
 #imgprinc{
-   width: 50%;
+   margin: 30px;
+   width: 40%;
+}
+.contato{
+   margin: 50px;
 }
 a{
+   font-size: small;
    color: white;
 }
