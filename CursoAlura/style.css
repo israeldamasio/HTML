@@ -172,3 +172,31 @@ td, th{
 .mapa h3{
    margin: 1em 0 2em;
 }
+
+@media screen and (max-width: 480px) {
+   .caixa, .video{
+      width: auto;
+   }
+   .caixa{
+      position: static;
+      width: 100%;
+   }
+   nav li{
+      margin: 0px 10px;
+   }
+   li a{
+      font-size: 15px;
+   }
+   form label, form legend{
+      font-size: 15px;
+   }
+   #mensagem, #nomesobrenome, #email, #telefone{
+      width: 100%;
+   }
+   table{
+      margin: 20px auto;
+   }
+   .enviar{
+      width: auto;
+   }
+}
