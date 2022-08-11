@@ -139,3 +139,10 @@ td, th{
    padding: 8px 10px;
    text-align: center;
 }
+
+/* CSS da página inicial */
+iframe {
+   width: 100%;
+   min-height: 500px;
+   max-height: 700px;
+}
