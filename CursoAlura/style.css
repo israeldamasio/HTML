@@ -111,7 +111,7 @@ main{
    background: linear-gradient(black, white, black);
 }
 #contatos{
-   width: calc(100% - 30px);
+   width: calc(100% - 90px);
    background: white;
    text-align: left;
    margin: auto;
